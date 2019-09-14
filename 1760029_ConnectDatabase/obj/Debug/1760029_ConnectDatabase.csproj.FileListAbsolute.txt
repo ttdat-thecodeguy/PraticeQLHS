@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\ConnectDatabase\1760029_ConnectDatabase\bin\Debug\1760029_ConnectDatabase.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ConnectDatabase\1760029_ConnectDatabase\bin\Debug\1760029_ConnectDatabase.exe
+c:\users\user\documents\visual studio 2015\Projects\ConnectDatabase\1760029_ConnectDatabase\bin\Debug\1760029_ConnectDatabase.pdb
+c:\users\user\documents\visual studio 2015\Projects\ConnectDatabase\1760029_ConnectDatabase\obj\Debug\1760029_ConnectDatabase.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ConnectDatabase\1760029_ConnectDatabase\obj\Debug\_1760029_ConnectDatabase.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\ConnectDatabase\1760029_ConnectDatabase\obj\Debug\_1760029_ConnectDatabase.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ConnectDatabase\1760029_ConnectDatabase\obj\Debug\1760029_ConnectDatabase.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ConnectDatabase\1760029_ConnectDatabase\obj\Debug\1760029_ConnectDatabase.exe
+c:\users\user\documents\visual studio 2015\Projects\ConnectDatabase\1760029_ConnectDatabase\obj\Debug\1760029_ConnectDatabase.pdb
+C:\Users\user\documents\visual studio 2015\Projects\ConnectDatabase\1760029_ConnectDatabase\obj\Debug\_1760029_ConnectDatabase.WriteForm.resources
+C:\Users\user\documents\visual studio 2015\Projects\ConnectDatabase\1760029_ConnectDatabase\obj\Debug\_1760029_ConnectDatabase.ReadFrm.resources
+C:\Users\user\documents\visual studio 2015\Projects\ConnectDatabase\1760029_ConnectDatabase\bin\Debug\database\qlhs.mdf
+C:\Users\user\documents\visual studio 2015\Projects\ConnectDatabase\1760029_ConnectDatabase\bin\Debug\database\qlhs_log.ldf
